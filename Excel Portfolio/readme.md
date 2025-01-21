@@ -39,6 +39,6 @@ I answered the following questions using Excel by utilizing pivots, vlookup, cal
 11.	How many orders fall within specific sales ranges (e.g., <$100, $100-$200, $200-$300, $300-$400, $400-$500, $500-$600, $600-$700, $700-$800, $800-$900, >$1,000)?
 (Use COUNTIFS to define multiple ranges.)
 
-## 
+## Highlight: Segment Wise Distribution With Respect to Region and Shipping 
 
 <img src='image.png'/>
