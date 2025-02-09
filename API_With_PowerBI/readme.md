@@ -15,6 +15,9 @@
 ## Data Cleaning :scissors:
 
 Sometimes, you could end up with data like this:
+
+</br>
+
 ![alt text](image.png)
 
 - Add a custom column, use the following formula
