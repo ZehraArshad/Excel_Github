@@ -57,7 +57,7 @@ Alternatively, do this,
 
 :heavy_exclamation_mark::heavy_exclamation_mark: Change the key to yours. 
 
-</br>
+
 ```
 let
     BaseUrl = "https://anime-db.p.rapidapi.com/anime?",
@@ -88,8 +88,8 @@ let
     TableData = Table.FromRecords(CombinedData)
     in
     TableData
-
 ```
+
 As a result, you will get the anime data. 
 
 
